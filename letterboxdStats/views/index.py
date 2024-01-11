@@ -1,11 +1,6 @@
 """
 Index (main) view.
 
-URLs include:
-/
-/uploads/<filename>
-/posts/<postid_url_slug>/
-/explore/
 """
 import flask
 from flask import send_from_directory
